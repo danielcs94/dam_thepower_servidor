@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Conan y Belit",
+        "autor": "John Buscema",
+        "localizacion": "Estanteria1",
+        "estado": "leido",
+        "prestado": false
+    },
+    {
+        "id": 2,
+        "titulo": "Los combates cotidianos",
+        "autor": "Manu Larcenet",
+        "localizacion": "Estanteria3",
+        "estado": "leido",
+        "prestado": true
+    },
+    {
+        "id": 3,
+        "titulo": "Secret Wars",
+        "autor": "Jim Shooter",
+        "localizacion": "Estanteria2",
+        "estado": "pendiente de leer",
+        "prestado": false
+    }
+]
