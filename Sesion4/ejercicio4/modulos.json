@@ -1,0 +1,19 @@
+{
+    "DAW": [
+        {
+            "modulo": "Lenguaje de marcas",
+            "curso": 1,
+            "horas": 3
+        },
+        {
+            "modulo": "Sistemas inform\u00e1ticos",
+            "curso": 1,
+            "horas": 5
+        },
+        {
+            "modulo": "Despliegue de aplicaciones web",
+            "curso": 2,
+            "horas": 4
+        }
+    ]
+}

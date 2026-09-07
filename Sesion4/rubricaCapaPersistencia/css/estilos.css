@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f6f8;
+}
+
+/* Contenedor de la tabla */
+#tablaJuegos {
+    width: 100%;
+    border-collapse: collapse;
+    background: #ffffff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+/* Cabecera */
+#tablaJuegos th {
+    background: linear-gradient(135deg, #4e73df, #224abe);
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    padding: 12px;
+}
+
+/* Celdas */
+#tablaJuegos td {
+    padding: 10px;
+    border-bottom: 1px solid #e9ecef;
+    text-align: center;
+}
+
+/* Filas alternas */
+#tablaJuegos tr:nth-child(even) {
+    background-color: #f8f9fc;
+}
+
+/* Hover de fila */
+#tablaJuegos tr:hover {
+    background-color: #eef2ff;
+}
+
+/* Inputs y selects */
+#tablaJuegos input[type="text"],
+#tablaJuegos select {
+    width: 95%;
+    padding: 6px 8px;
+    border: 1px solid #d1d3e2;
+    border-radius: 6px;
+    background: #fff;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+#tablaJuegos input[type="text"]:focus,
+#tablaJuegos select:focus {
+    outline: none;
+    border-color: #4e73df;
+    box-shadow: 0 0 0 2px rgba(78,115,223,0.15);
+}
+
+/* Checkbox centrado y más grande */
+#tablaJuegos input[type="checkbox"] {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+/* Columna de acciones */
+.acciones {
+    white-space: nowrap;
+}
+
+/* Botones base */
+.btn {
+    padding: 7px 12px;
+    border: none;
+    border-radius: 6px;
+    font-size: 13px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #fff;
+    margin: 2px;
+    transition: all 0.2s ease;
+}
+
+/* Botón añadir / guardar */
+.btn[value="+"],
+.btn[value="Guardar"] {
+    background: linear-gradient(135deg, #1cc88a, #17a673);
+}
+
+.btn[value="+" ]:hover,
+.btn[value="Guardar"]:hover {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+}
+
+/* Botón borrar */
+.btn[value="Borrar"] {
+    background: linear-gradient(135deg, #e74a3b, #be2617);
+}
+
+.btn[value="Borrar"]:hover {
+    filter: brightness(1.1);
+    transform: translateY(-1px);
+}
+
+/* Inputs readonly (Id) */
+input[readonly] {
+    background: #e9ecef;
+    color: #495057;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Responsive simple */
+@media (max-width: 900px) {
+    #tablaJuegos th,
+    #tablaJuegos td {
+        font-size: 12px;
+        padding: 6px;
+    }
+
+    .btn {
+        padding: 5px 8px;
+        font-size: 12px;
+    }
+}

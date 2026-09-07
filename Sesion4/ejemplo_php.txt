@@ -1,0 +1,6 @@
+Ejemplo de archivo de texto para probar lectura y escritura en PHP.
+
+Línea 1: Hola, este es un archivo de prueba. 
+Línea 2: Puedes leer estearchivo con file_get_contents(). 
+Línea 3: También puedes escribir confile_put_contents(). 
+Línea 4: Fin del archivo.

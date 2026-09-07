@@ -1,0 +1,25 @@
+{
+    "DAW": [
+        {
+            "modulo": "Programación",
+            "curso": 1,
+            "horas_semanales": 8
+        },
+        {
+            "modulo": "Bases de datos",
+            "curso": 1,
+            "horas_semanales": 5
+        },
+        {
+            "modulo": "Desarrollo web en entorno cliente",
+            "curso": 2,
+            "horas_semanales": 7
+        },
+        {
+            "modulo": "Desarrollo web en entorno servidor",
+            "curso": 2,
+            "horas_semanales": 8
+        }
+    ]
+}
+

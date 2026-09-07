@@ -1,0 +1,284 @@
+{
+  "juegos": [
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Demon's Souls (Remake)",
+      "anio": 2020,
+      "metacritic": 92,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/1/11/Demons_Souls_remake_cover_art.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Ratchet & Clank: Rift Apart",
+      "anio": 2021,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/a/a3/Ratchet_%26_Clank_-_Rift_Apart.png"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Returnal",
+      "anio": 2021,
+      "metacritic": 86,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/9/91/Returnal_cover_art.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "God of War Ragnarök",
+      "anio": 2022,
+      "metacritic": 94,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/e/ee/God_of_War_Ragnar%C3%B6k_cover.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Marvel's Spider-Man 2",
+      "anio": 2023,
+      "metacritic": 90,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/0/0f/SpiderMan2PS5BoxArt.jpeg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Final Fantasy XVI",
+      "anio": 2023,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/0/00/Final_Fantasy_XVI_cover_art.png"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Horizon Forbidden West",
+      "anio": 2022,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/6/69/Horizon_Forbidden_West_cover_art.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Resident Evil 4 Remake",
+      "anio": 2023,
+      "metacritic": 93,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/d/df/Resident_Evil_4_remake_cover_art.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Elden Ring",
+      "anio": 2022,
+      "metacritic": 96,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
+    },
+    {
+      "plataforma": "PlayStation 5",
+      "titulo": "Astro's Bot",
+      "anio": 2020,
+      "metacritic": 90,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/a/a9/Astro_Bot_cover_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Elden Ring",
+      "anio": 2022,
+      "metacritic": 96,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
+      "anio": 2015,
+      "metacritic": 94,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Forza Horizon 5",
+      "anio": 2021,
+      "metacritic": 92,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Halo Infinite",
+      "anio": 2021,
+      "metacritic": 87,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/1/14/Halo_Infinite.png"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Senua's Saga: Hellblade II",
+      "anio": 2024,
+      "metacritic": 81,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/e/ed/Senua%27s_Saga_Hellblade_II_cover_art.png"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Psychonauts 2",
+      "anio": 2021,
+      "metacritic": 87,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/23/Psychonauts_2_cover.png"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Starfield",
+      "anio": 2023,
+      "metacritic": 83,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/6/6d/Bethesda_Starfield.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Sea of Thieves",
+      "anio": 2018,
+      "metacritic": 79,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/7/77/Sea_of_thieves_cover_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Forza Motorsport 7",
+      "anio": 2017,
+      "metacritic": 86,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/2f/Forza_7_art.jpg"
+    },
+    {
+      "plataforma": "Xbox Series X",
+      "titulo": "Hitman 3",
+      "anio": 2021,
+      "metacritic": 87,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Half-Life 2",
+      "anio": 2004,
+      "metacritic": 96,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "The Witcher 3: Wild Hunt",
+      "anio": 2015,
+      "metacritic": 94,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Counter-Strike: Global Offensive",
+      "anio": 2012,
+      "metacritic": 83,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/6/6e/CSGOcoverMarch2020.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "StarCraft II",
+      "anio": 2010,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Diablo II",
+      "anio": 2000,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/d/d5/Diablo_II_Coverart.png"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Portal 2",
+      "anio": 2011,
+      "metacritic": 95,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/f/f9/Portal2cover.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "DOOM (2016)",
+      "anio": 2016,
+      "metacritic": 85,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/2/28/Doom_Cover.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Minecraft",
+      "anio": 2011,
+      "metacritic": 93,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/b/b6/Minecraft_2024_cover_art.png"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "Baldur's Gate 3",
+      "anio": 2023,
+      "metacritic": 96,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg"
+    },
+    {
+      "plataforma": "PC",
+      "titulo": "League of Legends",
+      "anio": 2009,
+      "metacritic": 80,
+      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_GMI1WAN7RKdiZ2FXXgT4I114_UqAFKDvxg&s"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "anio": 2017,
+      "metacritic": 97,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Super Mario Odyssey",
+      "anio": 2017,
+      "metacritic": 97,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Metroid Dread",
+      "anio": 2021,
+      "metacritic": 88,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/f/f7/Metroid_Dread_Banner.png"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Mario Kart 8 Deluxe",
+      "anio": 2017,
+      "metacritic": 92,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/b/b5/MarioKart8Boxart.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Fire Emblem: Three Houses",
+      "anio": 2019,
+      "metacritic": 89,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/1/16/Fire_Emblem_Three_Houses.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Animal Crossing: New Horizons",
+      "anio": 2020,
+      "metacritic": 90,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Splatoon 3",
+      "anio": 2022,
+      "metacritic": 83,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/4/4f/Splatoon.3.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Xenoblade Chronicles 3",
+      "anio": 2022,
+      "metacritic": 90,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/7/76/Xenoblade_3.png"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "Luigi's Mansion 3",
+      "anio": 2019,
+      "metacritic": 86,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/3/38/Luigi%27s_Mansion_3.jpg"
+    },
+    {
+      "plataforma": "Nintendo Switch",
+      "titulo": "The Legend of Zelda: Tears of the Kingdom",
+      "anio": 2023,
+      "metacritic": 96,
+      "portada": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Legend_of_Zelda_Tears_of_the_Kingdom_cover.jpg"
+    }
+  ]
+}
